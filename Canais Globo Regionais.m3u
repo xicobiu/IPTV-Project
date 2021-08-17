@@ -1,9 +1,26 @@
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP
+https://live.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401629219405680016749016292228844298117283TCYRJft1Ywi1v9Vaven27A&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Rio
+https://live.video.globo.com/d/e/nl/s/hls-globo-rj/playlist.m3u8?h=0401629220039275352094516292235183114333045M_rRVulut_zhp_Rt4cizyQ&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Fortaleza CE"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Fortaleza CE
 https://live-vm-ce-04.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401629231061167180678416291446635828088184bPWOjb3MtwlFZPM3QOIpRA&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo CE"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo CE
-https://live-vm-ce-04.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401629231061167180678416291446635828088184bPWOjb3MtwlFZPM3QOIpRA&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Brasília DF"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Brasília DF
+https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401629219497786731113916292229757710411783JnfsZE3K61tMOwLLmRKHZA&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo DF"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo DF
-https://live.video.globo.com/d/nl/s/hls-globo-df/playlist.m3u8?h=0401629231061167180678416291446635828088184bPWOjb3MtwlFZPM3QOIpRA&k=html5&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Recife NE"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Recife NE
+https://live.video.globo.com/d/nl/s/hls-globo-pe1/playlist.m3u8?h=0401629219574363777020116292230532854092370FFCDpsN9pGjHw8w_R5PUow&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
 
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Minas"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Minas
+https://live.video.globo.com/d/nl/s/hls-globo-bh/playlist.m3u8?h=0401629219727839698912316292232068757879733aFX0jIkaaq0WOaLS3HP36Q&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Floripa SC"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Floripa SC
+https://live.video.globo.com/d/nl/s/hls-globo-sc1/playlist.m3u8?h=0401629219797324114046016292232766223635313yZaqUbBg-pyw9tVe4XCOKQ&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Curitiba"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Curitiba
+https://live.video.globo.com/d/nl/s/hls-globo-cur/playlist.m3u8?h=04016292198663162895775162922334584309921596DRQfTI4dOV1ceSOE8GOUQ&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
+
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Manaus"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Manaus
+https://live01.video.globo.com/d/nl/s/hls-globo-man/playlist.m3u8?h=0401629219934054328931916292234135371995733uK19D1ambQBSJOCQO-iqUA&k=app&a=F&u=890eab77-9267-4b87-a16b-e0c99b18be60
