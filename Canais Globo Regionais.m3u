@@ -1,8 +1,8 @@
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP
+https://live-as-03-25.video.globo.com/d/m/nl/s/hls-globo-sp1/playlist.m3u8?h=0401629664823159346100316296683048667150656QrqGf15mU4Zbobo9otLs4A&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
+
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Fortaleza CE"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Fortaleza CE
 https://live-as-04-13.video.globo.com/d/nl/s/hls-globo-ce1/playlist.m3u8?h=0401629586378345710993316295898584081600759Jf352IHYzgF_gOHoP9hVGA&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo SP"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo SP
-https://live-as-10-16.video.globo.com/d/nl/s/hls-globo-sp1/playlist.m3u8?h=0401629586100343885219616295895809481145047DlXKAV5TSuvUxXS8Wex8sw&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
 
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo Rio"  tvg-logo="http://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/42/f3/a1511ca14eeeca2e054c45b56e07.png"group-title="Abertos",Globo Rio
 https://live-as-08-24.video.globo.com/d/m/e/nl/s/hls-globo-rj/playlist.m3u8?h=0401629586280065651069716295897619696445043VNE6bx4SWQiRfvoxbOVt2Q&k=html5&a=F&u=377906d1-2f82-4626-8155-e4fb25e80e51
